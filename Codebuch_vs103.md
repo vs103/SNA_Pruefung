@@ -58,14 +58,14 @@ Gegencheck: https://www.abgeordnetenwatch.de/
 
 
 **party** 
-(Parteizugehörigkeit),
+(Parteizugehoerigkeit),
 1 = FDP,
 2 = SPD,
-3 = Die Grüne
+3 = Die Gruene
 
 **religion** 
 (Religion),
-1 = römisch-katholisch, 
+1 = roemisch-katholisch, 
 2 = evangelisch,
 3 = muslimisch
 
